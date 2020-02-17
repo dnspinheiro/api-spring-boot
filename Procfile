@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* ClienteApplication
+web: java -jar target/cliente-0.0.1-SNAPSHOT.jar
